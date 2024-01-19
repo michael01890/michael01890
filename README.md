@@ -29,4 +29,4 @@
   
 - 🔎 Currently looking for a Summer 2024 internship
   
-- 📫 How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael01890/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael01890/)
