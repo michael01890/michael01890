@@ -25,10 +25,8 @@
 - 🎓 B.S in Computer Science, Marketing, and General Management from Purdue University
   - Concentrations: Software Engineering, Data Analytics
   
-- 💻 Skills and Technologies: C/C++, Java, Python, JavaScript, HTML/CSS, React, Express, Node.js, MongoDB, SQL, GraphQL, Firebase, R Studio, Unity, Git, Agile
-  
 - 🌱 In my free time I like to write music, work on personal coding projects, read books, workout, and practice dance!
   
-- 🔎 Currently searching for a Summer 2024 internship
+- 🔎 Currently looking for a Summer 2024 internship
   
 - 📫 How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael01890/)
