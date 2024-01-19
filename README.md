@@ -12,3 +12,10 @@
     <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
+
+
+
+<h1>
+  Hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
