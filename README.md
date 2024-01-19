@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 
-<div id= "badges" align="center>
+<div id= "badges" align="center">
   <a href="https://www.linkedin.com/in/michael01890/">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge/>
   </a>
   
   <a href="https://open.spotify.com/artist/30XIlso2NPwitC5zUkrz6l?si=msGAO6GrTOaAVyIha9uRQg">
