@@ -16,6 +16,12 @@
 
 
 <h1>
-  Hello!
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+---
+### 👨‍💻 About Me :
+- 🎓 B.S in Computer Science, Marketing, and General Management from Purdue University
+  - Concentrations: Software Engineering, Data Analytics
+  - 
