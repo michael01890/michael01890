@@ -24,7 +24,7 @@
 
 ---
 ### 👨‍💻 About Me :
-- 🎓 B.S in Computer Science, Marketing, and General Management from Purdue University
+- 🎓 B.S in Computer Science, Marketing, and General Management at Purdue University
   - Concentrations: Software Engineering, Data Analytics
   
 - 🌱 In my free time I like to write music, work on personal coding projects, read books, workout, and practice dance!
