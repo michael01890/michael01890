@@ -27,9 +27,9 @@
 - 🎓 B.S in Computer Science, Marketing, and General Management at Purdue University
   - Concentrations: Software Engineering, Data Analytics
   
-- 🌱 In my free time I like to write music, work on personal coding projects, read books, workout, and practice dance!
+- 🌱 In my free time I like to write music, work on personal coding projects, read books, workout, and freestyle dance!
   
-- 🔎 Currently looking for a Summer 2024 internship
+- 🔎 Will be graduating in May 2025! Currently looking for an Entry-Level position after graduation.
   
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael01890/)
 
