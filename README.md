@@ -29,7 +29,7 @@
   
 - 🌱 In my free time I like to write music, work on personal coding projects, read books, and jam on my guitar :)
   
-- 🔎 Will be graduating in May 2025. Currently looking for an Entry-Level position after graduation.
+- 🔎 Currently working at radianHub as a software engineer!
   
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael01890/)
 
